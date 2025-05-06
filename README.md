@@ -1,6 +1,6 @@
 # FastLLM-JS
 
-High-performance parallel LLM API request tool with support for multiple providers and caching capabilities, ported to JavaScript for Node.js and Bun runtimes.
+[FastLLM](https://github.com/Rexhaif/fastllm) - High-performance parallel LLM API request tool with support for multiple providers and caching capabilities, ported to JavaScript for Node.js and Bun runtimes.
 
 ## Features
 
